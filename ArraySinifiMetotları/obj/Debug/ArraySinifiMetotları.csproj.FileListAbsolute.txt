@@ -1,0 +1,7 @@
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\ArraySinifiMetotları\bin\Debug\ArraySinifiMetotları.exe.config
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\ArraySinifiMetotları\bin\Debug\ArraySinifiMetotları.exe
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\ArraySinifiMetotları\bin\Debug\ArraySinifiMetotları.pdb
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\ArraySinifiMetotları\obj\Debug\ArraySinifiMetotları.csproj.AssemblyReference.cache
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\ArraySinifiMetotları\obj\Debug\ArraySinifiMetotları.csproj.CoreCompileInputs.cache
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\ArraySinifiMetotları\obj\Debug\ArraySinifiMetotları.exe
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\ArraySinifiMetotları\obj\Debug\ArraySinifiMetotları.pdb
